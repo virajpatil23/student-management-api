@@ -18,7 +18,16 @@ A full-stack Student Management System built with **ASP.NET Core**, **SQL Server
 - Docker support
 
 ---
+## 📸 Screenshots
 
+### Login Page
+![Login](../screenshots/login.png)
+
+### Student Dashboard
+![Dashboard](../screenshots/dashboard.png)
+
+### Swagger UI
+![Swagger](../screenshots/swagger.png)
 ## 🗂 Project Structure
 
 ```

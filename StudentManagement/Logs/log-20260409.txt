@@ -323,3 +323,5 @@ Error Number:208,State:1,Class:16
 2026-04-09 14:31:05.238 +05:30 [INF] Student created: 1 - John Doe
 2026-04-09 14:32:44.227 +05:30 [INF] Student updated: 1
 2026-04-09 14:33:10.669 +05:30 [INF] Student deleted: 1
+2026-04-09 17:04:08.685 +05:30 [INF] Student created: 2 - viraj patil
+2026-04-09 17:04:42.178 +05:30 [INF] Student updated: 2
